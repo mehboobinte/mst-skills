@@ -1,0 +1,191 @@
+# MST Prompt Recipes — Mehboob Steel Traders
+
+Ready-made prompt sets for a wholesale MS pipe business (Badami Bagh, Lahore).
+Adapt the details; keep the structure. All prompts stay in English.
+
+## Contents
+
+1. Brand / house style block (reuse in every prompt)
+2. Recipe A — Godown process explainer (20–30s)
+3. Recipe B — Delivery truck / dispatch (10–20s)
+4. Recipe C — Daily rate list promo (8–16s)
+5. Recipe D — Product close-ups / B-roll library
+6. Recipe E — Trust & scale shots (for ads)
+7. Urdu narration writing notes
+8. Things to never put in a Veo prompt for MST
+
+---
+
+## 1. House style block
+
+Paste this sentence verbatim into every clip so the whole video grades the same:
+
+> Shot on 35mm, shallow depth of field, warm industrial colour grade, natural
+> imperfect surfaces, fine dust suspended in the air, slight film grain,
+> documentary realism.
+
+And the standard negatives:
+
+> No on-screen text, no captions, no logos, no watermark, no glossy CGI look, no
+> plastic skin, no lens flares, no slow motion; steel pipes must look like real
+> mill-finish steel with surface marks, scale and dust, never chrome or mirror-polished.
+
+---
+
+## 2. Recipe A — Godown process explainer
+
+The story: truck arrives → pipes unloaded and counted → carried to numbered racks →
+incharge writes the rack number → rack number entered in the ERP → gate pass prints
+with the rack number so loading is fast. Purpose: show buyers that stock is
+systematically tracked, not a heap in a yard.
+
+Build as 3–4 clips of 6–8s. If real godown photos exist, upload 2–3 as
+**Ingredients** (the racks, the pipe stacks, the office desk) — far better than words.
+
+**Clip 1 — arrival (8s)**
+```
+Static wide shot from ground level as a dusty six-wheel truck loaded high with bundles
+of grey steel pipes reverses slowly into the open gate of a large wholesale steel
+warehouse. Late afternoon golden light rakes across the yard, dust rising under the
+tyres, tall stacks of pipes visible in the shaded interior behind. A worker in a blue
+hard hat and grey shalwar kameez waves the driver back with one hand. Shot on 35mm,
+shallow depth of field, warm industrial colour grade, natural imperfect surfaces, fine
+dust suspended in the air, slight film grain, documentary realism. Audio: diesel engine
+idling, reversing beep, distant market noise. No on-screen text, no captions, no logos,
+no watermark, no glossy CGI look, no plastic skin, no lens flares, no slow motion;
+steel pipes must look like real mill-finish steel with surface marks, scale and dust,
+never chrome or mirror-polished.
+```
+
+**Clip 2 — unloading and counting (6s)**
+```
+Low-angle medium shot of two labourers sliding a bundle of long grey square steel pipes
+down from the truck bed onto their shoulders while a third man in a blue hard hat and
+grey shalwar kameez counts them, tapping each bundle with his finger. Warehouse interior
+in shade behind them, late afternoon light spilling in from the gate. [house style block]
+Audio: steel pipes clanking, footsteps on concrete, men speaking indistinctly in the
+background. [negatives] Continuity: same man in blue hard hat and grey shalwar kameez as
+the previous shot, same warehouse, same warm late-afternoon light, same colour grade.
+```
+
+**Clip 3 — racking (6s)**
+```
+Tracking shot following a labourer from behind as he carries a long steel pipe on his
+shoulder down a narrow aisle between tall steel storage racks stacked with sorted pipes
+of different sizes, and slides it into place. Cool shaded interior with shafts of warm
+light from high windows. [house style block] Audio: pipe scraping into the rack, echo of
+the warehouse. [negatives] Continuity: same warehouse and colour grade as previous shots.
+```
+
+**Clip 4 — record keeping (6s)**
+```
+Close-up over-the-shoulder shot of a middle-aged inventory clerk in a plain shirt
+writing in a hardbound ledger on a cluttered desk, then turning to a desktop computer
+and typing, warehouse racks softly out of focus behind him through an open office
+doorway. Warm overhead bulb light mixed with daylight. [house style block] Audio:
+pen on paper, keyboard clicks, muffled warehouse sounds. [negatives — plus: the ledger
+page and computer screen must stay out of legible focus]
+```
+
+> Note: blur the ledger and screen deliberately. Any legible writing Veo invents will
+> be nonsense, and Urdu will be scribble.
+
+---
+
+## 3. Recipe B — Delivery truck / dispatch
+
+**Clip 1 (8s)**
+```
+Low-angle tracking shot moving alongside a worn but well-kept flatbed truck loaded with
+neatly bundled grey steel pipes as it pulls out of a busy wholesale steel market street,
+golden hour side light, dust in the air, shopfronts and parked handcarts blurring past.
+[house style block] Audio: engine pulling away, market crowd, horns in the distance.
+[negatives — plus: no text or writing anywhere on the truck body]
+```
+
+**Clip 2 — extend for arrival (8s)**
+```
+[Repeat the full truck and light description] The truck is now arriving at a
+construction site gate where a site supervisor in a white hard hat waves it in;
+half-built concrete structure and scaffolding behind. Continuity: same truck, same load,
+same colour grade and light as previous shot. [house style block] [negatives]
+```
+
+> Brand name and 0316-6300000 go on the truck **in editing**, not in the prompt.
+
+---
+
+## 4. Recipe C — Daily rate list promo
+
+Purpose: push rate-today page traffic. Keep it to one strong 8s clip plus a static
+end card made in Canva — do not try to make Veo show the rate table.
+
+```
+Slow dolly-in on a shopkeeper's hands holding a smartphone in a steel pipe warehouse,
+the phone screen glowing but angled away from the camera so its content is not readable,
+tall racks of grey steel pipes filling the background in soft focus. Warm afternoon light
+from the open shutter. [house style block] Audio: quiet warehouse ambience, faint market
+noise. [negatives — plus: phone screen content must not be legible, no user interface
+visible]
+```
+
+Then in editing: cut to a clean Canva end card with the rate page URL, the phone
+number, and «آج کا ریٹ» in proper Urdu type.
+
+---
+
+## 5. Recipe D — Product close-up B-roll library
+
+Generate these once and reuse them across every future video and ad. 4s each is enough.
+
+- `Extreme close-up, slow slide along the cut ends of a bundle of square steel pipes, mill finish with fine surface scale and dust, shallow focus falling off, cool shaded light. [house style block] Audio: none, room tone only. [negatives]`
+- `Close-up of a hand in a work glove running along the length of a round steel pipe, catching the light on the seam. [house style block] [negatives]`
+- `Overhead shot descending slowly over a grid of sorted steel pipe stacks of different diameters on a warehouse floor. [house style block] [negatives]`
+- `Close-up of a measuring tape being stretched across the diameter of a pipe end, held by two dusty hands, numbers on the tape out of readable focus. [house style block] [negatives]`
+
+---
+
+## 6. Recipe E — Trust & scale shots
+
+For the click-to-message ad. The message is "we're a real, big, organised supplier".
+
+```
+Wide static shot down the full length of a large steel pipe warehouse, tall racks
+receding into the distance on both sides, sorted bundles of pipes of many sizes, two
+workers small in the frame at the far end, shafts of daylight from high windows cutting
+through dust. [house style block] Audio: deep warehouse ambience, distant clanking.
+[negatives]
+```
+
+---
+
+## 7. Urdu narration writing notes
+
+- Budget **~2.2 words per second**. 20s ≈ 40–45 words. 30s ≈ 65 words.
+- Write for a male voice, calm and matter-of-fact — not an excited ad voice. Steel
+  buyers respond to competence, not hype.
+- One idea per shot; leave a beat of silence at each cut.
+- Numbers spoken aloud are fine (Veo isn't involved) — the phone number can be
+  narrated even though it can't be shown by Veo.
+- Always end with a single concrete action: rate page, WhatsApp, or phone number.
+
+Skeleton for the godown video (20s):
+
+| وقت | شاٹ | نریشن |
+|---|---|---|
+| 0–6s | ٹرک آمد | مال گودام پہنچتا ہے… |
+| 6–12s | اتارنا/گنتی | ہر بنڈل گنا اور چیک کیا جاتا ہے… |
+| 12–16s | ریک | ہر سائز اپنے نمبر والے ریک میں |
+| 16–20s | ریکارڈ + کال ٹو ایکشن | ریک نمبر سسٹم میں — گیٹ پاس پر، تاکہ لوڈنگ منٹوں میں |
+
+---
+
+## 8. Never put these in an MST Veo prompt
+
+- Urdu or Arabic text of any kind (comes out as scribble, every time)
+- "Mehboob Steel Traders" or any phone number as visible text
+- A readable rate list, invoice, ledger page, gate pass, or computer screen
+- Recognisable real people (his own staff should be shot on a real phone, or used as
+  an uploaded ingredient photo, not "generated")
+- Competitor names or real brand signage
+- More than one main action per 8-second clip
